@@ -1,3 +1,6 @@
+this is a patch for the Chosen Red game, distribution of FireRed Rom is offensive to Nintendo and will get taken down so you can apply this patch to a "Legally" acquired
+clean ROM of Pokemon FireRed.  Use the online patcher: https://www.marcrobledo.com/RomPatcher.js/
+
 POKEMON: CHOSEN RED
 A narrative-focused romhack where Pokémon feel like characters and the player is chosen, not given power.
 
