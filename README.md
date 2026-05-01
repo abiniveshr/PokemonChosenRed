@@ -1,7 +1,9 @@
 POKEMON: CHOSEN RED
 A narrative-focused romhack where Pokémon feel like characters and the player is chosen, not given power.
 
-this is a patch for the Chosen Red game, distribution of FireRed Rom is offensive to Nintendo and will get taken down so you can apply this patch to a "Legally" acquired clean ROM of Pokemon FireRed.  Use the online patcher: https://www.marcrobledo.com/RomPatcher.js/
+this is a patch for the Chosen Red game, distribution of FireRed Rom is offensive to Nintendo and will get taken down so you can apply this patch to a "Legally" acquired clean ROM of Pokemon FireRed.  
+Use XDelta to patch the .bps file over your ROM or
+Use the online patcher: https://www.marcrobledo.com/RomPatcher.js/, provide your own ROM and my patch file
 
 NOTE: THIS IS A PET PROJECT OF MINE WHICH I DECIDED TO FULLY DOCUMENT IN CASE ANYONE ELSE WANTED TO USE MY WORK AS A BASE.
 YOU CAN USE MY STUFF BUT BE SURE TO CREDIT ME :) PLAY COOL NO HATE ALL LOVE
