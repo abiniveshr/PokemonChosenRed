@@ -127,6 +127,12 @@ v1.1:
 BUGFIXES:
   if following pokemon was out, Charmander stalking interaction breaks and Squirtle stalking animation breaks. Fixed the bug.
 
+v1.2:
+TRAINER REBALANCE
+BUGFIXES:
+  Charmander used to be lost forever if you had full inventory while interacting with it. Bug Fixed
+
+  
 To-Do:
 -Create a unique story experience for fan favourite legendaries similar to that of the Kanto Starters
 -Shadow system
