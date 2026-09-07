@@ -132,7 +132,10 @@ TRAINER REBALANCE
 BUGFIXES:
   Charmander used to be lost forever if you had full inventory while interacting with it. Bug Fixed
 
-  
+Known Bugs:
+1: Even if the user doesn't have their pokemon out during charmander stalk cutscene, the pokemon comes outside after it finishes. Needs an if statement
+
+
 To-Do:
 -Create a unique story experience for fan favourite legendaries similar to that of the Kanto Starters
 -Shadow system
