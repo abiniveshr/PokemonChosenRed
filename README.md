@@ -133,7 +133,19 @@ BUGFIXES:
   Charmander used to be lost forever if you had full inventory while interacting with it. Bug Fixed
 
 Known Bugs:
-1: Even if the user doesn't have their pokemon out during charmander stalk cutscene, the pokemon comes outside after it finishes. Needs an if statement
+1: Even if the user doesn't have their pokemon out during charmander stalk cutscene, the pokemon comes outside after it finishes.
+
+
+
+v1.3:
+Major Bugfixes
+-Encountered a bug where in the Viridian City PokeCentre, if you step on a tile, your game freezes. This was due to a debug step not being fully removed. Fixed by removing that step.
+-After your following pokemon "gets startled" and hides, it won't come back without going into a new map. Fixed by force reloading the current map.
+-In the Kanto starters stalking sequence, even if you didn't originally have your pokemon following you, they would come outside of their PokeBall when you go through any warp. Fixed by using extra flag to check if the Pokemon was originally out.
+-In the Cerulean Cave, after the Squirtle cutscene, Wild Spawns are turned off without end due to a flag not being cleared. Fixed by clearing it no matter how the cutscene ends.
+
+Overall Report:
+Made the game much more stable and playable.
 
 
 To-Do:
