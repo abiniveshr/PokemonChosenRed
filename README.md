@@ -144,6 +144,10 @@ Major Bugfixes
 -In the Kanto starters stalking sequence, even if you didn't originally have your pokemon following you, they would come outside of their PokeBall when you go through any warp. Fixed by using extra flag to check if the Pokemon was originally out.
 -In the Cerulean Cave, after the Squirtle cutscene, Wild Spawns are turned off without end due to a flag not being cleared. Fixed by clearing it no matter how the cutscene ends.
 
+v1.3.1 & hotfix:
+-Squirtle now joins trainer after initial battle with Lt.Surge
+-Mewtwo easter egg
+
 Overall Report:
 Made the game much more stable and playable.
 
